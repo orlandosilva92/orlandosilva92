@@ -65,7 +65,7 @@ Projetos desenvolvidos durante meus estudos e prática com Git/GitHub:
 | Projeto | Descrição | Tecnologia |
 |---|---|---|
 | [miniguia-estudos-notebooklm-ia](https://github.com/orlandosilva92/miniguia-estudos-notebooklm-ia) | Mini guia de estudos usando NotebookLM e IA | — |
-| [Organiza-o-versionamento-de-estudo](https://github.com/orlandosilva92/Organiza-o-versionamento-de-estudo) | Organização de versionamento de estudo | `Ruby` |
+| [Organiza-o-versionamento-de-estudo](https://github.com/orlandosilva92/Organiza-o-versionamento-de-estudo) | Organização de versionamento de estudo | — |
 | [lab-natty-or-not](https://github.com/orlandosilva92/lab-natty-or-not) | Lab sobre como identificar conteúdo natural vs. gerado por IA | — |
 
 > 🚧 Estou no início da minha jornada em programação, com foco atual em Front-end (HTML, CSS, JavaScript). Novos projetos nessa área serão adicionados em breve.
