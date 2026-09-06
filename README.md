@@ -26,7 +26,7 @@
 - 💻 Estudando **desenvolvimento Front-end**: HTML, CSS e JavaScript
 - 🔍 Interesse em boas práticas, lógica de programação e resolução de problemas
 - 🤝 Aberto(a) a oportunidades, freelas e trocas de conhecimento
-- 📍 Recife, PE — Brasil
+- 📍 Jaboatão dos Guararapes, PE — Brasil
 
 ---
 
