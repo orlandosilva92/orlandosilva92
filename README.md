@@ -22,7 +22,7 @@
 ### 🧑‍💻 Sobre mim
 
 - 🎓 Superior em **Análise e Desenvolvimento de Sistemas**
-- 📚 Pós-Graduação em **Banco de Dados** (em andamento)
+- 📚 Pós-Graduação em **Banco de Dados**
 - 💻 Estudando **desenvolvimento Front-end**: HTML, CSS e JavaScript
 - 🔍 Interesse em boas práticas, lógica de programação e resolução de problemas
 - 🤝 Aberto(a) a oportunidades, freelas e trocas de conhecimento
