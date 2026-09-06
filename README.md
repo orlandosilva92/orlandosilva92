@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou José Orlando da Silva 👋</h1>
 
-<h3 align="center">Analista de TI em formação | Front-end Developer</h3>
+<h3 align="center">Analista de TI | Estudante de Front-end Developer</h3>
 
 <p align="center">
   Superior em Análise e Desenvolvimento de Sistemas, com Pós-Graduação em Banco de Dados em andamento.
