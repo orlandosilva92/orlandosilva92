@@ -1,13 +1,10 @@
 <h1 align="center">Olá, eu sou José Orlando da Silva 👋</h1>
-
 <h3 align="center">Analista de TI | Estudante de Front-end Developer</h3>
-
 <p align="center">
   Superior em Análise e Desenvolvimento de Sistemas, com Pós-Graduação em Banco de Dados em andamento.
   <br/>
   Focado(a) em construir uma base sólida em HTML, CSS e JavaScript.
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/jose-orlando-da-silva/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -32,29 +29,29 @@
 
 ### 🛠️ Stack técnica
 
-**Linguagens & Front-end**
-
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-**Ferramentas & Versionamento**
-
-<p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
-**🌱 Em estudo atualmente**
+---
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-</p>
+### 🗺️ Roadmap de aprendizado
+
+| Tecnologia / Trilha | Status |
+|---|---|
+| HTML | 🔁 Revisando |
+| CSS | 🔁 Revisando |
+| JavaScript | 🔁 Revisando |
+| React | 📖 Estudando |
+| Angular | ⏳ Pendente |
+| Formação UX Designer | ⏳ Pendente |
+| TypeScript Fullstack | ⏳ Pendente |
+| Node.js Fundamentals | ⏳ Pendente |
 
 ---
 
