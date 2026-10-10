@@ -1,9 +1,9 @@
 <h1 align="center">Olá, eu sou José Orlando da Silva 👋</h1>
-<h3 align="center">Analista de TI | Estudante de Desenvolvimento</h3>
+<h3 align="center">Analista de TI | Aprendendo Python</h3>
 <p align="center">
   Superior em Análise e Desenvolvimento de Sistemas, com Pós-Graduação em Banco de Dados.
   <br/>
-  Construindo uma base sólida em lógica de programação, Front-end e Python.
+  Foco atual: Python. Antes estudei lógica de programação com JavaScript e fundamentos de HTML.
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/jose-orlando-da-silva/" target="_blank">
@@ -17,7 +17,8 @@
 
 - 🎓 Superior em **Análise e Desenvolvimento de Sistemas**
 - 📚 Pós-Graduação em **Banco de Dados**
-- 💻 Estudando **Python**, **JavaScript** e **Front-end** (HTML e CSS)
+- 💻 Estudando **Python** (curso em andamento, com exercícios de prática)
+- 🌐 Já passei por **JavaScript** (lógica) e **HTML/CSS** (fundamentos)
 - 🔍 Interesse em boas práticas, lógica de programação e resolução de problemas
 - 🤝 Aberto a trocas de conhecimento e oportunidades
 - 📍 Recife, PE — Brasil
@@ -42,6 +43,12 @@
 
 | Tecnologia | Status |
 |---|---|
+| Python | 📖 Estudando agora |
+| JavaScript (lógica de programação) | ✅ Base concluída |
+| HTML e CSS | ✅ Fundamentos concluídos |
+| Banco de Dados | 🎓 Pós-graduação |
+
+---|---|
 | Python | 📖 Estudando |
 | HTML e CSS | ✅ Fundamentos feitos |
 | JavaScript (lógica de programação) | 🔁 Revisando |
