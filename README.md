@@ -1,16 +1,13 @@
 <h1 align="center">Olá, eu sou José Orlando da Silva 👋</h1>
-<h3 align="center">Analista de TI | Estudante de Front-end Developer</h3>
+<h3 align="center">Analista de TI | Estudante de Desenvolvimento</h3>
 <p align="center">
-  Superior em Análise e Desenvolvimento de Sistemas, com Pós-Graduação em Banco de Dados em andamento.
+  Superior em Análise e Desenvolvimento de Sistemas, com Pós-Graduação em Banco de Dados.
   <br/>
-  Focado(a) em construir uma base sólida em HTML, CSS e JavaScript.
+  Construindo uma base sólida em lógica de programação, Front-end e Python.
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/jose-orlando-da-silva/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:joseorlandodasilv@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -20,19 +17,20 @@
 
 - 🎓 Superior em **Análise e Desenvolvimento de Sistemas**
 - 📚 Pós-Graduação em **Banco de Dados**
-- 💻 Estudando **desenvolvimento Front-end**: HTML, CSS e JavaScript
+- 💻 Estudando **Python**, **JavaScript** e **Front-end** (HTML e CSS)
 - 🔍 Interesse em boas práticas, lógica de programação e resolução de problemas
-- 🤝 Aberto(a) a oportunidades, freelas e trocas de conhecimento
-- 📍 Jaboatão dos Guararapes, PE — Brasil
+- 🤝 Aberto a trocas de conhecimento e oportunidades
+- 📍 Recife, PE — Brasil
 
 ---
 
-### 🛠️ Stack técnica
+### 🛠️ Stack
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
@@ -40,38 +38,31 @@
 
 ---
 
-### 🗺️ Roadmap de aprendizado
+### 🗺️ Trilha de estudos
 
-| Tecnologia / Trilha | Status |
+| Tecnologia | Status |
 |---|---|
-| HTML | 🔁 Revisando |
-| CSS | 🔁 Revisando |
-| JavaScript | 🔁 Revisando |
-| React | 📖 Estudando |
+| Python | 📖 Estudando |
+| HTML e CSS | ✅ Fundamentos feitos |
+| JavaScript (lógica de programação) | 🔁 Revisando |
+| React | ⏳ Próximo |
 | Angular | ⏳ Pendente |
-| Formação UX Designer | ⏳ Pendente |
-| TypeScript Fullstack | ⏳ Pendente |
-| Node.js Fundamentals | ⏳ Pendente |
+| TypeScript | ⏳ Pendente |
+| Node.js | ⏳ Pendente |
 
 ---
 
 ### 📌 Projetos
 
-Projetos desenvolvidos durante meus estudos e prática com Git/GitHub:
-
 | Projeto | Descrição | Tecnologia |
 |---|---|---|
-| [miniguia-estudos-notebooklm-ia](https://github.com/orlandosilva92/miniguia-estudos-notebooklm-ia) | Mini guia de estudos usando NotebookLM e IA | — |
-| [Organiza-o-versionamento-de-estudo](https://github.com/orlandosilva92/Organiza-o-versionamento-de-estudo) | Organização de versionamento de estudo | — |
-| [lab-natty-or-not](https://github.com/orlandosilva92/lab-natty-or-not) | Lab sobre como identificar conteúdo natural vs. gerado por IA | — |
-
-> 🚧 Estou no início da minha jornada em programação, com foco atual em Front-end (HTML, CSS, JavaScript). Novos projetos nessa área serão adicionados em breve.
+| [Logica_de_Programacao](https://github.com/orlandosilva92/Logica_de_Programacao) | Anotações e exercícios de lógica de programação, aula por aula | JavaScript |
+| [HTML](https://github.com/orlandosilva92/HTML) | Anotações e exercícios de fundamentos web, HTML e formulários | HTML, CSS |
+| [miniguia-estudos-notebooklm-ia](https://github.com/orlandosilva92/miniguia-estudos-notebooklm-ia) | Mini guia de estudos de IA e chatbots usando o NotebookLM | Markdown |
+| [Livro-escrito-com-auxilio-de-IA](https://github.com/orlandosilva92/Livro-escrito-com-auxilio-de-IA) | *Codex Velundra*, livro de ficção escrito com apoio de IA generativa | Markdown |
 
 ---
 
 ### 📫 Contato
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/jose-orlando-da-silva/" target="_blank">LinkedIn</a> ·
-  <a href="mailto:joseorlandodasilv@gmail.com">joseorlandodasilv@gmail.com</a>
-</p>
+<a href="https://www.linkedin.com/in/jose-orlando-da-silva/" target="_blank">LinkedIn</a>
