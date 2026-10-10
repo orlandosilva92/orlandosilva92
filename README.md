@@ -48,15 +48,6 @@
 | HTML e CSS | ✅ Fundamentos concluídos |
 | Banco de Dados | 🎓 Pós-graduação |
 
----|---|
-| Python | 📖 Estudando |
-| HTML e CSS | ✅ Fundamentos feitos |
-| JavaScript (lógica de programação) | 🔁 Revisando |
-| React | ⏳ Próximo |
-| Angular | ⏳ Pendente |
-| TypeScript | ⏳ Pendente |
-| Node.js | ⏳ Pendente |
-
 ---
 
 ### 📌 Projetos
